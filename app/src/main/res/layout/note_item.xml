@@ -39,6 +39,15 @@
                 android:backgroundTint="#94E4DD"
                 android:foreground="@android:drawable/ic_menu_edit"/>
 
+            <ImageView
+                android:id="@+id/deleteButton"
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:layout_alignParentEnd="true"
+                android:foreground="@drawable/baseline_delete_24"/>
+
+
+
 
 
         </RelativeLayout>
