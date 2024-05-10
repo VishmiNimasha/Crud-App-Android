@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="titleTextView">Title</string>
-    <item name="titleTextView" type="id">title</item>
+    <item name="titleTextView" type="id">
+
+    </item>
 </resources>
