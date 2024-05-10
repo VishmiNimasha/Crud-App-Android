@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MadCrudApp</string>
+    <string name="addnote">Add Note</string>
 </resources>
