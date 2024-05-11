@@ -13,7 +13,7 @@ class Home : AppCompatActivity() {
         setContentView(R.layout.activity_home)
 
         handler.postDelayed({
-            val intent = Intent(this, AddNoteActivity::class.java)
+            val intent = Intent(this, MainActivity::class.java)
             startActivity(intent)
             finish()
         }, 2000L)
